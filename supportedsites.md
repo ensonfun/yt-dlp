@@ -603,6 +603,7 @@
  - **MallTV**
  - **mangomolo:live**
  - **mangomolo:video**
+ - **MangoTV**: 芒果TV
  - **ManotoTV**: Manoto TV (Episode)
  - **ManotoTVLive**: Manoto TV (Live)
  - **ManotoTVShow**: Manoto TV (Show)
@@ -635,7 +636,6 @@
  - **Metacritic**
  - **mewatch**
  - **Mgoon**
- - **MGTV**: 芒果TV
  - **MiaoPai**
  - **microsoftstream**: Microsoft Stream
  - **mildom**: Record ongoing live by specific user in Mildom
@@ -863,6 +863,9 @@
  - **PalcoMP3:song**
  - **PalcoMP3:video**
  - **pandora.tv**: 판도라TV
+ - **Panopto**
+ - **PanoptoList**
+ - **PanoptoPlaylist**
  - **ParamountNetwork**
  - **ParamountPlus**
  - **ParamountPlusSeries**
@@ -912,6 +915,7 @@
  - **PlutoTV**
  - **podomatic**
  - **Pokemon**
+ - **PokemonSoundLibrary**
  - **PokemonWatch**
  - **PokerGo**
  - **PokerGoCollection**
