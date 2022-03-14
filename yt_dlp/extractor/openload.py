@@ -208,7 +208,7 @@ class PhantomJSwrapper(object):
 
         replaces = self.options
         replaces['url'] = url
-        user_agent = headers.get('User-Agent') or USER_AGENTS['Safari']
+        user_agent = headers.get('User-Agent') or self.extractor.get_param('http_headers')['User-Agent']
         replaces['ua'] = user_agent.replace('"', '\\"')
         replaces['jscode'] = jscode
 
